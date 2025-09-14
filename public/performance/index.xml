@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performances on Feral-ferous</title>
+    <link>http://localhost:1313/performance/</link>
+    <description>Recent content in Performances on Feral-ferous</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Sep 2025 11:40:13 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/performance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performance</title>
+      <link>http://localhost:1313/performance/performance/</link>
+      <pubDate>Sat, 13 Sep 2025 11:40:13 +0200</pubDate>
+      <guid>http://localhost:1313/performance/performance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Feral-ferous&lt;/strong&gt; presents it&amp;rsquo;s first performance at &lt;em&gt;YPAM&lt;/em&gt; in Yokohama, Japan on the 12the and 13th of December 2025.&#xA;Buy tickets to our performance through &lt;a href=&#34;https://csoniferousstateproject.peatix.com&#34;&gt;Peatix&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
