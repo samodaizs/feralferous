@@ -1,7 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://feralferous.com/'
 languageCode = 'en-us'
 title = 'Feral-ferous'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 #[menu]
 #	[[menu.main]]
 #		name = "Home"
