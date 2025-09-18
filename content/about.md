@@ -1,6 +1,6 @@
 +++
 date = '2025-09-12T18:01:08+02:00'
-draft = true
+draft = false
 title = '『c/soniferous state』 project : Hol a szivem'
 description = 'A singing-music performance ritual by Li Tzumei and Shang Ruofei'
 featured_image = '/images/treeoflife_rotated.png'
